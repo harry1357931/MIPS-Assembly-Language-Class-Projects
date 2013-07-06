@@ -1,5 +1,5 @@
-MIPS-Assembly-Language-Class-Projects
-=====================================
+MIPS-Assembly-Language-Projects
+===============================
 
 This repository contains MIPS Assembly Language class projects given in our Intermediate CS 240 
 Computer Organization class. The projects in this repository contains implementation of for loop, 
