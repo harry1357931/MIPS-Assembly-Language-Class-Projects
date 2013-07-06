@@ -8,9 +8,9 @@ if else etc. in MIPS Assembly Language.
 My Contribution:
 ================
 <b>Authored</b>: <br>
-1) HelloWorld_MIPS_AssemblyLanguage_1.s  &nbsp;&nbsp;Read Comments on Top of this file for Problem Statment and Pseudo Code<br>
-2) Subtractor_MIPS_AssemblyLanguage_2.s &nbsp;&nbsp;Read Comments for Problem Statment and Pseudo Code<br>
-3) ForLoop_MIPS_AssemblyLanguage_3.s  &nbsp;&nbsp;Read Comments for Problem Statment and Pseudo Code<br>
+1) HelloWorld_MIPS_AssemblyLanguage_1.s  &nbsp;&nbsp;Read Comments in this file for Problem Statment and Pseudo Code<br>
+2) Subtractor_MIPS_AssemblyLanguage_2.s &nbsp;&nbsp;Read Comments in this file for Problem Statment and Pseudo Code<br>
+3) ForLoop_MIPS_AssemblyLanguage_3.s  &nbsp;&nbsp;Read Comments in this file for Problem Statment and Pseudo Code<br>
 4) MipsFinalHW_MIPS_AssemblyLanguage.s &nbsp;&nbsp;Read MipsFinalHW.pdf for Problem Statement<br>
 
 Taken from Web to Learn:
