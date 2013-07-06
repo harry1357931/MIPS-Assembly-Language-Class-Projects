@@ -1,4 +1,4 @@
-################################################################
+#################################################################################
 #  Date: 04-24-2012
 #  Program Name:  HelloWorld_MIPS_AssemblyLanguage_1.s  ,A "Hello World" program.
 #  Name: Gurpreet Singh
@@ -15,7 +15,7 @@
 #  $v0: syscall parameter and return value.
 #  $a0: syscall parameter--  Store the address of String to print.
 #
-#####################################################################
+#################################################################################
  .text
  main:            # Start of Code Section
  # rough work --ori $s2, $0, 50
