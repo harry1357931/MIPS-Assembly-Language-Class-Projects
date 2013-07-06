@@ -17,6 +17,10 @@ Taken from Web to Learn:
 ========================
  Files   fact2.s, Fibo.s
 
+How to Understand Code:
+=======================
+Problem Statment and Pseudo Code is provided as comments on Top of each file. Read that first.
+
 About MIPS:
 ===========
    MIPS (originally an acronym for Microprocessor without Interlocked Pipeline Stages) is a reduced 
