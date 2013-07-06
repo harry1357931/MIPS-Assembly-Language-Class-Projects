@@ -7,11 +7,11 @@ if else etc. in MIPS Assembly Language.
 
 My Contribution:
 ================
-   <b>Authored</b>: <br>
-   1) HelloWorld_MIPS_AssemblyLanguage_1.s<br>  &nbsp;&nbsp; Read Comments for Problem Statment and Pseudo Code
-   2) Subtractor_MIPS_AssemblyLanguage_2.s<br> &nbsp;&nbsp; Read Comments for Problem Statment and Pseudo Code
-   3) ForLoop_MIPS_AssemblyLanguage_3.s<br>  &nbsp;&nbsp; Read Comments for Problem Statment and Pseudo Code
-   4) MipsFinalHW_MIPS_AssemblyLanguage.s &nbsp;&nbsp; Read MipsFinalHW.pdf for Problem Statement<br>
+<b>Authored</b>: <br>
+1) HelloWorld_MIPS_AssemblyLanguage_1.s<br>  &nbsp;&nbsp;Read Comments for Problem Statment and Pseudo Code
+2) Subtractor_MIPS_AssemblyLanguage_2.s<br> &nbsp;&nbsp;Read Comments for Problem Statment and Pseudo Code
+3) ForLoop_MIPS_AssemblyLanguage_3.s<br>  &nbsp;&nbsp;Read Comments for Problem Statment and Pseudo Code
+4) MipsFinalHW_MIPS_AssemblyLanguage.s &nbsp;&nbsp;Read MipsFinalHW.pdf for Problem Statement<br>
 
 Taken from Web to Learn:
 ========================
